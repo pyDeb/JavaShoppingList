@@ -1,6 +1,8 @@
 # JavaShoppingList
 It is an implementation of a shopping list contating two Items (Abstact Class): Book &amp; GiftCard
 
+
+
 You may find a sample output of the program below
 
 *********** AmazingShopApp ***********
