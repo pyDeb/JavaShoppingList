@@ -8,9 +8,7 @@ You may find a sample output of the program below
 
 *********** AmazingShopApp ***********
 		Welcome to my AmazingShopApp!
-		
 		I am not cosidered to be user-friendly since you are using a console to run me.
-		
 		But I assure a great experience of using me. Let's get started!
 		
 Please choose one of the items below by enterint its number:
